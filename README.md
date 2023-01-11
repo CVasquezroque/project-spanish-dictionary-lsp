@@ -1,0 +1,2 @@
+# project-spanish-dictionary-lsp
+ 
