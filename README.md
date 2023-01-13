@@ -26,6 +26,31 @@ Make sure you have the following packages installed in your Python environment:
 
 ## Folder structure
 
+
+The project has the following structure:
+      
+    .
+    │
+    ├── data
+    │   ├── 20211027165438.xml
+    │   ├── 20221031134832.xml
+    │   │
+    ├── docs
+    ├── features
+    │   ├── cleaning_csv.py
+    │   ├── generating_plots.py
+    │   ├── GUI.py
+    │   ├── parsing_multiple_files.py
+    │   ├── parsing_xml.py
+    │   ├── utils.py
+    │   │
+    ├── figures
+    │   ├── multiple_ids_feature_ex1.png
+    │   ├── multiple_ids_feature_ex2.png
+    ├── features
+    │   ├── cleaned_data.csv
+    │   ├── test.csv
+
 The project has the following structure:
 .
 ├── 1.VERSIÓN FINAL
