@@ -32,43 +32,37 @@ The project has the following structure:
     .
     │
     ├── data
-    │   ├── 20211027165438.xml
-    │   ├── 20221031134832.xml
-    │   │
-    ├── docs
-    ├── features
-    │   ├── cleaning_csv.py
-    │   ├── generating_plots.py
-    │   ├── GUI.py
-    │   ├── parsing_multiple_files.py
-    │   ├── parsing_xml.py
-    │   ├── utils.py
-    │   │
-    ├── figures
-    │   ├── multiple_ids_feature_ex1.png
-    │   ├── multiple_ids_feature_ex2.png
-    ├── features
-    │   ├── cleaned_data.csv
-    │   ├── test.csv
+    │   ├── ABRIR
+    │   │   ├── ABRIR_1.eaf
+    │   │   ├── ABRIR_1.mp4
+    │	│   ├── ABRIR_1.pfsx
+    │   │   ├── ABRIR_2.eaf
+    │   │   ├── ABRIR_2.mp4
+    │	│   ├── ABRIR_2.pfsx
+    │	│   ├── ...
+    │   ├── ABURRIDO/
+    │   │   ├── ABURRIDO_1.eaf
+    │	│   ├── ...
+    │   ├── ACERCARSE/
+    │   │   ├── ACERCARSE_1.eaf
+    │	│   ├── ...
+    │   ├── ADIVINA/
+    │   │   ├── ADIVINA_1.eaf
+    │	│   ├── ...
+    │   ├── AHI/
+    │   │   ├── AHI_1.eaf
+    │	│   ├── ...
+    │   ├── AHORA/
+    │   │   ├── AHORA_1.eaf
+    │	│   ├── ...
+    │   ├── ALGUNOS/
+    │   │   ├── ALGUNOS_1.eaf
+    │	│   ├── ...
+    │   ├── ALLA/
+    │   │   ├── ALLA_1.eaf
+    │	│   ├── ...
 
-The project has the following structure:
-.
-├── 1.VERSIÓN FINAL
-    ├── ABRIR
-    │   ├── ABRIR_1.eaf
-    │   ├── ABRIR_2.eaf
-    │   │
-    ├── ABURRIDO
-    │   ├── ABURRIDO_1.eaf
-    │   │
-    ├── AHORA
-    │   ├── AHORA_1.eaf
-    │   ├── AHORA_2.eaf
-    ├── AMBULANCIA
-    │   ├── AMBULANCIA_1.eaf
-    │   ├── AMBULANCIA_2.eaf
-    :
-├── 
+
                 
 
 
