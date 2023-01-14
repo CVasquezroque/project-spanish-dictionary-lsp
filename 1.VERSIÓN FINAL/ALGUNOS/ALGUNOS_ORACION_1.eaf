@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-12-16T23:34:58-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/fcern/Downloads/1. VERSIÓN FINAL-20221216T024151Z-001/1. VERSIÓN FINAL/ALGUNOS/ALGUNOS_ORACION_1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./ALGUNOS_ORACION_1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4014d841-d008-4de8-8fe5-bee5a0fea95d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1334"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1334"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="2001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="2001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="2001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="2006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="2006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="2011"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="2011"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="2026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="2896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="2915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="3568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="4492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="4502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="4502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="4506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="4511"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="GLOSA">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>PROBLEMA</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>NO-SABER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>ALGUNOS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="NO MANUAL">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Frunce ceño</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>mueca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>cejas levantadas y mouthing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="CLASIFICADORES">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>CL: 5 girando y contacto CL: palma de mano plana mano no dominante</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>CL: 1 ambas manos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="TRADUCCION">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>¿Algún problema?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>No sé, pero para algunos sí.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="CAMBIO DE ROL">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Primera persona habla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>segunda persona habla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="GLOSA_IA">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>PROBLEMA_1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>NO-SABER_2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ALGUNOS_1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
