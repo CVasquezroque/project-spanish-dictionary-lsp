@@ -29,7 +29,7 @@ The project has the following structure:
     │   ├── ABRIR
     │   │   ├── ABRIR_1.eaf
     │   │   ├── ABRIR_1.mp4
-    │	  │   ├── ABRIR_1.pfsx
+    │   │   ├── ABRIR_1.pfsx
     │	  │   ├── ...
     │   ├── ABURRIDO/
     │   │   ├── ABURRIDO_1.eaf
