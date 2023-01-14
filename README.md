@@ -58,16 +58,16 @@ The project has the following structure:
     .
     │
     ├── data
-    │   ├── ABRIR
-    │   │   ├── ABRIR_1.eaf
-    │   │   ├── ABRIR_1.mp4
-    │   │   ├── ABRIR_1.pfsx
+    │   ├── WORD-1/
+    │   │   ├── WORD-1_1.eaf
+    │   │   ├── WORD-1_1.mp4
+    │   │   ├── WORD-1_1.pfsx
     │   │   ├── ...
-    │   ├── ABURRIDO/
-    │   │   ├── ABURRIDO_1.eaf
+    │   ├── WORD-2/
+    │   │   ├── WORD-2_1.eaf
     │   │   ├── ...
-    │   ├── ACERCARSE/
-    │   │   ├── ACERCARSE_1.eaf
+    │   ├── WORD-3/
+    │   │   ├── WORD-3_1.eaf
     │   │   ├── ...
     │   ├── ...
     │ 
