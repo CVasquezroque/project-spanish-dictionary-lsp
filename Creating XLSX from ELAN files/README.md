@@ -15,6 +15,13 @@ This script is used to extract information from ELAN files and write it to an Ex
 - fuzzywuzzy>=0.18.0
 - python>=3.7
 
+## Inputs
+- `folder_path`: path to the directory containing the ELAN files
+- `output filename`: filename for the output xlsx file
+
+## Outputs
+- xlsx file with columns: 'ELAN File Name' 'GLOSA_IA Tier Info' 'Location'
+- log files for each processed file in the 'logs/' directory
 
 ## Usage
 To use the script, provide the path to the directory containing the ELAN files, an the output filename as arguments to the `extraction()` function. The script will create an excel file as the output filename argument in the working directory and log files for each processed file in the 'logs/extraction_logs/' directory. 
