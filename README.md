@@ -30,9 +30,6 @@ The project has the following structure:
     │   │   ├── ABRIR_1.eaf
     │   │   ├── ABRIR_1.mp4
     │	  │   ├── ABRIR_1.pfsx
-    │   │   ├── ABRIR_2.eaf
-    │   │   ├── ABRIR_2.mp4
-    │	  │   ├── ABRIR_2.pfsx
     │	  │   ├── ...
     │   ├── ABURRIDO/
     │   │   ├── ABURRIDO_1.eaf
@@ -40,22 +37,8 @@ The project has the following structure:
     │   ├── ACERCARSE/
     │   │   ├── ACERCARSE_1.eaf
     │	  │   ├── ...
-    │   ├── ADIVINA/
-    │   │   ├── ADIVINA_1.eaf
-    │	  │   ├── ...
-    │   ├── AHI/
-    │   │   ├── AHI_1.eaf
-    │	  │   ├── ...
-    │   ├── AHORA/
-    │   │   ├── AHORA_1.eaf
-    │	  │   ├── ...
-    │   ├── ALGUNOS/
-    │   │   ├── ALGUNOS_1.eaf
-    │	  │   ├── ...
-    │   ├── ALLA/
-    │   │   ├── ALLA_1.eaf
-    │	  │   ├── ...
-    │
+    │   ├── ...
+    │ 
     ├── logs
     │   ├── extraction_logs/
     │   ├── tier_adder/
