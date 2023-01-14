@@ -9,8 +9,8 @@ This script is used to add a copy of an existing tier to ELAN files (in this cas
 - Creates a log file for each processed file
 
 ## Requirements
-- pympi==1.2.3
-- python==3.7
+- pympi-ling>=1.70.2
+- python>=3.7
 
 ## Inputs
 - `folder_path`: path to the directory containing the ELAN files
@@ -25,3 +25,23 @@ This script is used to add a copy of an existing tier to ELAN files (in this cas
 folder_path = 'data/'
 file_extension = 'eaf'
 add_glosa_ia_tier(folder_path, file_extension)
+```
+## Note
+- Any errors encountered during the processing of the files will be logged in the log file created for that file. Make sure to check the log files in case of any issues.
+- This script assumes that the folder structure provided has the following format, where each folder represents a word and contains the corresponding ELAN files:
+    .
+    │
+    ├── data
+    │   ├── WORD-1/
+    │   │   ├── WORD-1_1.eaf
+    │   │   ├── WORD-1_1.mp4
+    │   │   ├── WORD-1_1.pfsx
+    │   │   ├── ...
+    │   ├── WORD-2/
+    │   │   ├── WORD-2_1.eaf
+    │   │   ├── ...
+    │   ├── WORD-3/
+    │   │   ├── WORD-3_1.eaf
+    │   │   ├── ...
+    │   ├── ...
+    ├── glosa_ia_tier_adder.py
