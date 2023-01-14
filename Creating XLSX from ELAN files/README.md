@@ -22,6 +22,6 @@ To use the script, provide the path to the directory containing the ELAN files, 
 path = 'data/'
 output_path = 'output.xlsx'
 extraction(path)
-´´´
+````
 ## Note
 Any errors encountered during the processing of the files will be logged in the log file created for that file. Make sure to check the log files in case of any issues.
