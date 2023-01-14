@@ -1,1 +1,0 @@
-1.VERSIÓN FINAL/AHORA/AHORA_ORACION_2(1).eaf has tier GLOSA_IA misspelled, their tiers are:['GLOSA', 'NO MANUAL', 'CLASIFICADORES', 'TRADUCCION', 'GLOSA-IA']

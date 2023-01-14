@@ -1,1 +1,0 @@
-1.VERSIÓN FINAL/CARGAR/CARGAR_ORACION_1(1).eaf has not tier named GLOSA_IA, their tiers are:['GLOSA', 'NO MANUAL', 'CLASIFICADORES', 'TRADUCCION']
