@@ -1,7 +1,7 @@
-# glosa_ia_tier_adder
+# Adding a Copy of an existing Tier in ELAN files
 
 ## Description
-This script is used to add a GLOSA_IA tier to ELAN files. It first searches the provided data path and its subfolders for ELAN files, then it checks if the files contain a 'GLOSA_IA' tier and if not, it creates a new tier named 'GLOSA_IA' and adds the annotations from the GLOSA tier to the new one.
+This script is used to add a copy of an existing tier to ELAN files (in this case GLOSA is copied into GLOSA_IA tier). It first searches the provided data path and its subfolders for ELAN files, then it checks if the files contain a 'GLOSA_IA' tier and if not, it creates a new tier named 'GLOSA_IA' and adds the annotations from the GLOSA tier to the new one.
 
 ## Features
 - Adds a GLOSA_IA tier to ELAN files
