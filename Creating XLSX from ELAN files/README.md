@@ -26,8 +26,11 @@ output_path = 'output.xlsx'
 extraction(path)
 ````
 ## Note
-- Any errors encountered during the processing of the files will be logged in the log file created for that file. Make sure to check the log files in case of any issues.
-- This script assumes that the folder structure provided has the following format, where each folder represents a word and contains the corresponding ELAN files:
+Any errors encountered during the processing of the files will be logged in the log file created for that file. Make sure to check the log files in case of any issues.
+
+This script assumes that the folder structure provided has the following format, where each folder represents a word and contains the corresponding ELAN files:
+
+
     .
     │
     ├── data
@@ -43,4 +46,5 @@ extraction(path)
     │   │   ├── WORD-3_1.eaf
     │   │   ├── ...
     │   ├── ...
-    ├── convert_glosa_db_to_xlsx.py
+    ├── glosa_ia_tier_adder.py
+
