@@ -23,8 +23,8 @@ This script is used to add a copy of an existing tier to ELAN files (in this cas
 ## Usage
 ```python
 folder_path = 'data/'
-file_extension = 'eaf'
-add_glosa_ia_tier(folder_path, file_extension)
+output_file = 'glosas_complete'
+add_glosa_ia_tier(folder_path, output_file)
 ```
 ## Note
 
