@@ -13,13 +13,13 @@ To use the script, run the file add_glosa_ia_tier.exe and provide the path to th
 
 **Example**
 ```
-Initializing script glosa_ia_tier_adder.py...
+Initializing script convert_glosa_db_to_xlsx.py...
 
-Enther the folder which contains the subfolders of each gloss
+Enter the path to the directory containing the files:
 FOLDER: 1.VERSIÓN FINAL
 
-Enter the name for the xlsx file
-FILENAME: glosas_complete
+Enter the file extension of the files you want to modify (e.g. 'eaf'):
+FILE EXTENSION: eaf
 
 ```
 ### Output
@@ -39,13 +39,13 @@ To use the script, run the file convert_glosa_db_to_xlsx.exe and provide the pat
 
 *Example*
 ```
-Initializing script convert_glosa_db_to_xlsx.py...
+Initializing script glosa_ia_tier_adder.py...
 
-Enter the path to the directory containing the files:
+Enther the folder which contains the subfolders of each gloss
 FOLDER: 1.VERSIÓN FINAL
 
-Enter the file extension of the files you want to modify (e.g. 'eaf'):
-FILE EXTENSION: eaf
+Enter the name for the xlsx file
+FILENAME: glosas_complete
 ```
 ### Output
 The script will create an excel file as the output filename argument in the working directory and log files for each processed file in the 'logs/extraction_logs/' directory. In case of any errors
